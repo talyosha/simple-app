@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.m1 {
+  margin: 1rem !important;
+}
+
+.m3 {
+  margin: 3rem 0 !important;
+}
+
+.mt-2 {
+  margin-top: 2rem !important;
+}
+
+.p-5 {
+  padding: 5rem 0 !important;
+}
+
+.p-2 {
+  padding: 2rem 0 3rem !important;
+}
+
+.fs-2 {
+  font-size: 2.5rem !important;
+}
+
+.fs-1 {
+  font-size: 1.5rem !important;
+}
+
+.vh-60 {
+  min-height: 60vh;
+}
+
+.black-nav {
+  min-height: 100px !important;
+  padding: 1rem 0 !important;
+}
